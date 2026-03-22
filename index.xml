@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mouhamed on Portfolio</title>
+    <link>https://MouhamedBourouba.github.io/</link>
+    <description>Recent content in Mouhamed on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://MouhamedBourouba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://MouhamedBourouba.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MouhamedBourouba.github.io/contact/</guid>
+      <description>&lt;p&gt;Open to collaboration and freelance work&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;code&gt;mouhamedmobiledev@gmail.com&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://MouhamedBourouba.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MouhamedBourouba.github.io/experience/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;full-stack-engineer--internship&#34;&gt;Full Stack Engineer — Internship&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;IntellectSoft DZ&lt;/strong&gt; · Setif, Algeria · Hybrid&#xA;&lt;em&gt;Sep 2025 – Jan 2026 · 5 months&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Built and maintained full-stack web applications during a hands-on internship at a local software company. Responsible for maintaining two production projects:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://okwin.shop/&#34;&gt;Okwin&lt;/a&gt;&lt;/strong&gt; — an e-commerce platform&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://meddx.vercel.app/&#34;&gt;MeddX&lt;/a&gt;&lt;/strong&gt; — a medical web application&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Django REST Framework, React.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;head-of-linux-department&#34;&gt;Head of Linux Department&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SESC Club&lt;/strong&gt; · Setif, Algeria&#xA;&lt;em&gt;Current&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Head of Linux department at the university&amp;rsquo;s tech club, helping fellow students get comfortable with Linux, the terminal, and open-source tooling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://MouhamedBourouba.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://MouhamedBourouba.github.io/projects/</guid>
+      <description>&lt;p&gt;A selection of things I&amp;rsquo;ve built — ranging from CLI tools and system-level libraries to full-stack web apps and Android applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;hospital-records-management-system&#34;&gt;Hospital Records Management System&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;2nd place National AI &amp;amp; Programming University Olympiad (Wilaya level)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A full-stack birth and death records management system built for the Olympiad. Features role-based access control, real-time Server-Sent Events for live record updates, anonymized data exports for researchers, and PDF generation for official records.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Node.js, Express, MongoDB, React, Tailwind CSS, JWT&lt;br&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://github.com/MouhamedBourouba/hospital-records-managment&#34;&gt;View on GitHub →&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
